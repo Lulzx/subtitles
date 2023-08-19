@@ -2,6 +2,8 @@
 
 This is a Python program that allows you to create a video with subtitles using moviepy library.
 
+https://github.com/Lulzx/subtitles/assets/22330483/19cf5f8e-a923-4f12-99d8-19d197a5b36d
+
 ## Prerequisites
 
 Before running the program, make sure you have the following installed:
